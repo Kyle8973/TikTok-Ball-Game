@@ -23,6 +23,6 @@ python3 ballgame.py
 
 https://github.com/user-attachments/assets/b1c6915e-cd35-478d-a85e-7a00fa85da26
 
-## Authors
+## Authors:
 
 - [Kyle8973](https://www.github.com/kyle8973)
