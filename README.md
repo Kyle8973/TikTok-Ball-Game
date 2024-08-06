@@ -6,7 +6,7 @@ A Simple Python Game Inspired By The Popular TikTok Bouncing Ball Game
 ## Installation:
 
 ```bash
-  git clone https://github.com/Kyle8973/TikTok-BallGame
+  git clone https://github.com/Kyle8973/TikTok-Ball-Game
   cd TikTok-BallGame
   python3 ballgame.py
 ```
